@@ -5,7 +5,7 @@
   "main": "math.js",
   "scripts": {
     "test": "jest",
-    "test:all": "node 0.js && node 1.js && node 2.js && node 3.js && jest"
+    "test:all": "node 1.js && node 2.js && node 3.js && node 4.js && jest"
   },
   "keywords": [],
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",

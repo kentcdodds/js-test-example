@@ -11,7 +11,7 @@
   "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^21.2.1"
+    "jest": "^22.0.4"
   },
   "jest": {
     "testMatch": ["**/5.js"]
